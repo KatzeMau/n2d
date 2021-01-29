@@ -1,10 +1,6 @@
-<h1 align="center">N2D v2</h1>
-<h3> Easy to use ESP8266 flash tool for deauther 2.1.0 firmware for any (default config) ESP8266 device.</h3> <a href="https://github.com/mrvodka007/n2d/raw/master/ReleaseEXE/N2D2.exe"> Download Now </a>
+# Node2Deauther 2021
+Node2Deauther (N2D) is an easy to use ESP8266 flash utility which provides automatic device detection and driver installation for compatible ESP8266 devices such as the NodeMCU and the D1 Mini.
 
-<h4> Be warned! This repository is no longer maintained, I'll still answer your queries but expect no updates. N2D will be archived as of January 2021 </h4>
----
+#### UPDATE: The project's development has been suspended due to build / hardware issues. In order to publish a decent application and not some quick, bodge - I have decided to suspend development until problems can be resolved, i.e. a new rig.
 
-<h4> N2D is essentially a wrapper for esptool.py and runs natively on Windows 10. All you have to do is run the software and let the magic happen before your eyes.</h4>
-
-> If you are looking for a tool to install Deauther v3 beta, check out <a href="https://github.com/mrvodka007/nubimage/"> NubImage </a>
-
+### You may download the previous versions from the releases.
